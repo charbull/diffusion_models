@@ -14,4 +14,6 @@ More information
 
 Papers
 * [Paper] Denoising Diffusion Probabilistic Models: https://arxiv.org/pdf/2006.11239 , Paper code
-* [Paper] Unet https://arxiv.org/abs/1505.04597
+* [Paper] U-Net https://arxiv.org/abs/1505.04597
+* [Adding Conditional Control to Text-to-Image Diffusion Models]: https://arxiv.org/abs/2302.05543
+* [StyleDrop: Text-to-Image Generation in Any Style] https://arxiv.org/abs/2306.00983
