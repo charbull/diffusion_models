@@ -1,4 +1,6 @@
-The following colab attempts to highlight a few concepts and components in order to get an intuition how things work. I found several code repositories online that I shamelessly copied from to make this colab:
+The following colab attempts to highlight a few concepts and components in order to get an intuition how things work. I found several code repositories online that I shamelessly copied from to make this colab: <a target="_blank" href="https://colab.research.google.com/github/charbull/diffusion_models/blob/main/diffusion_model_intuition.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 * Original code: https://github.com/hojonathanho/diffusion/tree/master
 * https://github.com/lucidrains/denoising-diffusion-pytorch
